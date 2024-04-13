@@ -1,7 +1,7 @@
 # VegTummy App
 
 ## Overview
-VegTummy is a culinary treasure for vegetarians and vegan food enthusiasts, offering a user-friendly interface to explore, search, and upload a diverse range of plant-based recipes. From fresh salads to hearty main dishes and refreshing beverages, VegTummy provides a delightful cooking experience for every preference.
+VegTummy is a culinary treasure for all food enthusiasts, offering a user-friendly interface to explore, search, and upload a diverse range of recipes. From fresh salads to hearty main dishes, decadent desserts, and refreshing beverages, VegTummy provides a delightful cooking experience for every taste and preference. Whether you're a vegetarian, vegan, or simply someone who loves to try various cuisines, VegTummy makes it easy to discover your next favorite dish.
 
 ## Features
 - **Categories**: Easily browse recipes sorted by categories such as Salad, Main Dish, Drinks, and Dessert.
@@ -47,5 +47,4 @@ Their expertise and dedication have been instrumental in bringing VegTummy to li
 ## Contributions
 We encourage contributions! If you have ideas for improvement or new features, please fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
